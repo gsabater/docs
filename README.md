@@ -1,8 +1,3 @@
----
-layout: default
-title: Introduction
----
-
 # Welcome to Laravel Eagle 🦅
 
 Laravel Eagle 🦅 is a Laravel (5.5 and up) package than help improve your in site SEO with a simple interface and API.
